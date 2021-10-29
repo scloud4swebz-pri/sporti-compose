@@ -1,6 +1,6 @@
-# Portainer compose setup
+# SPorti compose setup
 
-A simple setup to deploy Portainer using `docker-compose` or `docker stack deploy` (Swarm).
+A simple setup to deploy SPorti using `docker-compose` or `docker stack deploy` (Swarm).
 
 ## Requirements
 
